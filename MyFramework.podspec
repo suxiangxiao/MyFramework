@@ -9,5 +9,5 @@ s.source       = { :git => 'https://github.com/suxiangxiao/MyFramework.git'}
 s.platform     = :ios
 #s.source_files = 'helloFramework/*.{h,m}'
 #s.resources    = '*.{png,xib,storyboard,framework}'
-s.frameworks = 'hellFramework'
+s.frameworks = 'helloFramework'
 end
