@@ -7,7 +7,7 @@ s.license      = 'MIT'
 s.author       = {'kbo' => '13751882497.com'}
 s.source       = { :git => 'https://github.com/suxiangxiao/MyFramework.git'}
 s.platform     = :ios
-#s.source_files = 'helloFramework/*.{h,m}'
+s.source_files = 'helloFramework/*.{h,m}'
 #s.resources    = '*.{png,xib,storyboard,framework}'
 s.frameworks = 'helloFramework'
 end
