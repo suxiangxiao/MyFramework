@@ -8,5 +8,5 @@ s.author       = {'kbo' => '13751882497.com'}
 s.source       = { :git => 'https://github.com/suxiangxiao/MyFramework.git'}
 s.platform     = :ios
 s.source_files = './*.{framework}'
-s.resources    = 'MyFramework/**/*.{png,xib,storyboard}'
+s.resources    = '*.{png,xib,storyboard,framework}'
 end
